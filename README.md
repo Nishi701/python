@@ -30,7 +30,4 @@ Every topic includes practical questions so you build real understanding, not ju
 ✔️ Practice-Focused Learning  
 ✔️ Interview-Oriented Problems  
 
----
-
-## 📂 Project Structure
 
